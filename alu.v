@@ -11,7 +11,10 @@ module ALU(Ain, Bin, ALUop, out, Z, N, O);
     `define AND_S 2'b10
     `define MVN_S 2'b11
 
-    //Git hub push test
+    //First git hub push test
+
+    // second commit test
+
 
     // Determining which operation we are to perform
     // and it's corresponding output

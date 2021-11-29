@@ -4,6 +4,8 @@ module cpu(clk, reset, s, load, in, out, N, V, Z, w);
     output [15:0] out;
     output N, V, Z, w;
 
+    // change test
+    
     // Internal signals
     wire [15:0] currentInstruction, sximm5, sximm8;
     wire [10:0] control_signal;
